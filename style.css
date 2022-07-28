@@ -1,3 +1,7 @@
 #main{
     Filter:brightness(60%);
 }
+.register{
+    background-color:rgb(40, 220, 226) ;
+    height: 13rem;
+}
