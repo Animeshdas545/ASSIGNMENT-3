@@ -4,6 +4,11 @@
 .register{
     background-color:rgb(40, 220, 226) ;
     height: 13rem;
+    padding-top: 20px;
+    padding-left: 40px;
+    flex-direction: row;
+    flex-flow: row wrap;
+
 }
 .footer{
     background-color: rgb(32, 26, 26);
@@ -11,7 +16,8 @@
     margin-top: 10rem;
 }
 .logo{
-    padding-left: 32rem;
-    font-size: 3rem;
+    padding-left: 33vw;
+    font-size: 6vw;
     color: aliceblue;
+    align-items: center;
 }
