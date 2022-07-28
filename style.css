@@ -1,5 +1,9 @@
 #main{
     Filter:brightness(60%);
+    height: 60vw;    
+}
+#three{
+    height: 60VW;
 }
 .register{
     background-color:rgb(40, 220, 226) ;
